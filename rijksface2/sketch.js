@@ -9,14 +9,14 @@ function setup() {
 }
 
 function draw() {
-  w1=(rotationX+30)/60;
+  w1=(rotationY+30)/60;
   if(w1<0){
     w1=0
   }
     else if(w1>1){
       w1=1
     }
-    
+
   w2=1-w1;
   //wString=str(round(w1*100)/100);
   tint(255, 255, 255, 255*w2);
