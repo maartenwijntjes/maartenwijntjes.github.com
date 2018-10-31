@@ -1,1 +1,6 @@
-## This webpage is rather empty... for more info please check my other page (also outdated, sorry!) or my google scholar page for publications. Or just send me mail.
+## This webpage is still empty
+
+## Musuem collection links
+
+- [Metropolitan](https://www.metmuseum.org/art/collection/)
+- [Rijksmuseum](https://www.rijksmuseum.nl/en/search)
