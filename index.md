@@ -8,4 +8,6 @@
 - [National Gallery of Art (Washington)](https://www.nga.gov/collection/collection-search.html)
 - [Nationalmuseum Stockholm (@wikimedia)](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_Nationalmuseum_Stockholm:_2016-100)
 - [Prado](https://www.museodelprado.es/en/the-collection)
+- [Mauritshuis](https://www.mauritshuis.nl/en/explore/the-collection/search/)
 - [wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
+- [Art Institute Chicago](https://www.artic.edu/collection)
