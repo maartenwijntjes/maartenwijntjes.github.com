@@ -5,3 +5,8 @@
 <script language="javascript" type="text/javascript" src="facetest/sketch.js"></script>
 
 
+<div id="sketch-holder">
+      <!-- Our sketch will go here! -->
+    </div>
+
+    Mooi man!
