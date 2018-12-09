@@ -4,7 +4,7 @@ var image1,image2;
 var w1,w2,wString;
 
 function setup() {
-  createCanvas(400, 400);
+  var canvas = createCanvas(400, 400);
   canvas.parent('sketch-holder');
   image1 = loadImage("facetest/meanfaceLeft.png");
   image2 = loadImage("facetest/meanfaceRight.png");
