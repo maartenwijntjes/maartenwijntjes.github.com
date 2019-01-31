@@ -1,8 +1,8 @@
-## This webpage is still empty
+## About
+I am an assistent prof @ Delft University of Technology, department of Industrial Design Engineering. My current interests are visual (and sometimes haptic) perception of material properties. 
 
 
-
-## Musuem collections with decent high quality pictures
+## Musuem collections with nice high quality pictures
 
 - [Metropolitan](https://www.metmuseum.org/art/collection/)
 - [Rijksmuseum](https://www.rijksmuseum.nl/en/search)
@@ -13,3 +13,6 @@
 - [Mauritshuis](https://www.mauritshuis.nl/en/explore/the-collection/search/)
 - [wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
 - [Art Institute Chicago](https://www.artic.edu/collection)
+- [Cleveland museum of art](http://www.clevelandart.org/)
+
+- [general list I found](http://www.openculture.com/2016/05/1-8-million-free-works-of-art-from-world-class-museums-a-meta-list.html)
