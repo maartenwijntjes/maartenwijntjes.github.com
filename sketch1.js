@@ -2,7 +2,9 @@ let image1;
 let t=0;
 
 function setup() {
-  createCanvas(400, 400);
+  var createCanvas(400, 400);
+  canvas.prent('sketch-holder1');
+  
   image1 = loadImage("images/SK-A-250_2.png");
   noCursor();
 }
