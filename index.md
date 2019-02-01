@@ -20,4 +20,4 @@ I am an assistent prof @ Delft University of Technology, department of Industria
 
 ## Quick test
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RnS0YNuLfQQ?start=178" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RnS0YNuLfQQ?start=178&end=220" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
