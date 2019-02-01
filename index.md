@@ -47,6 +47,3 @@ function draw() {
 - [general list I found](http://www.openculture.com/2016/05/1-8-million-free-works-of-art-from-world-class-museums-a-meta-list.html)
 
 ## Quick test
-
-
-<iframe src="https://nos.nl" width="100" height="100"></iframe>
