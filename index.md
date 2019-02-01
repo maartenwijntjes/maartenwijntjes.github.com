@@ -5,25 +5,7 @@ I am an assistent prof @ Delft University of Technology, department of Industria
 <iframe src="https://editor.p5js.org/maartenwijntjes/embed/OTdnso7os" width="400" height="400"></iframe>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
-<script>
-let image1;
-let t=0;
-
-function setup() {
-  createCanvas(400, 400);
-  image1 = loadImage("images/SK-A-250_2.png");
-  noCursor();
-}
-
-function draw() {
-  background(255);
-  imageMode(CENTER);
-  translate(mouseX,mouseY);
-  t=t+.1;
-  rotate(t);
-  image(image1,0,0,100,100);
-}
-</script>
+<script src="sketch1.js" ></script>
 
 
 
