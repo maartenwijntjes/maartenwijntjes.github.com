@@ -36,5 +36,5 @@ I am an assistent prof @ Delft University of Technology, department of Industria
 ## Quick test
 
 
-<script src="http://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
 <script src="sketch1.js"></script>
