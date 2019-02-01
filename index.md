@@ -1,7 +1,7 @@
 
 
-## About ?
-I am an assistent prof @ Delft University of Technology, department of Industrial Design Engineering. My current interests are visual (and sometimes haptic) perception of material properties. 
+## About
+I am an assistent prof @ Delft University of Technology, department of Industrial Design Engineering. I should really finish this page... anyway: if you are looking on a mobile phone do you notice something?
 
 
 <!---
@@ -20,8 +20,6 @@ I am an assistent prof @ Delft University of Technology, department of Industria
 
 - [Metropolitan](https://www.metmuseum.org/art/collection/)
 - [Rijksmuseum](https://www.rijksmuseum.nl/en/search)
-
-
 - [The Getty](https://www.getty.edu/art/collection/)
 - [National Gallery of Art (Washington)](https://www.nga.gov/collection/collection-search.html)
 - [Nationalmuseum Stockholm (@wikimedia)](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_Nationalmuseum_Stockholm:_2016-100)
