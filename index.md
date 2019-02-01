@@ -4,7 +4,7 @@
  </head>
 
 
-## About
+## About ?
 I am an assistent prof @ Delft University of Technology, department of Industrial Design Engineering. My current interests are visual (and sometimes haptic) perception of material properties. 
 
 
