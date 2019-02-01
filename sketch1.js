@@ -10,10 +10,11 @@ function setup() {
 }
 
 function draw() {
-  background(255);
+  background(220);
   imageMode(CENTER);
-  translate(mouseX,mouseY);
-  t=t+.1;
-  rotate(t);
-  image(image1,0,0,100,100);
+  translate(200,200);
+  //t=t+.1;
+  //rotate(t);
+  rotate(radians(rotationZ));
+  image(image1,0,0,200,200);
 }
