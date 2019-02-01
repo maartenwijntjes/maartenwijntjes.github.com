@@ -1,14 +1,12 @@
-<head>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
-    <script src="sketch1.js"></script>
- </head>
 
 
 ## About ?
 I am an assistent prof @ Delft University of Technology, department of Industrial Design Engineering. My current interests are visual (and sometimes haptic) perception of material properties. 
 
 
+<!---
 <iframe src="https://editor.p5js.org/maartenwijntjes/embed/OTdnso7os" width="400" height="400"></iframe>
+-->
 
 <!---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
@@ -36,3 +34,7 @@ I am an assistent prof @ Delft University of Technology, department of Industria
 - [general list I found](http://www.openculture.com/2016/05/1-8-million-free-works-of-art-from-world-class-museums-a-meta-list.html)
 
 ## Quick test
+
+
+<script src="http://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
+<script src="sketch1.js"></script>
