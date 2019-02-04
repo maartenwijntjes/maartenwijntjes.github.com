@@ -1,7 +1,13 @@
 
 
 ## About
-I am an assistent prof @ Delft University of Technology, department of Industrial Design Engineering. I should really finish this page... anyway: if you are looking on a mobile phone do you notice something?
+I am an assistant professor at the Delft University of Technology, department of Industrial Design Engineering. My main interests are old (art history) and new (digital/interactive) ways of visual communication. I am specifically intrigued by the depiction of *material properties* because
+* Art historically super interesting
+* Online shopping
+* Some physics involved
+* Relatively unexplored
+* We live in a ... nevermind
+
 
 
 <!---
