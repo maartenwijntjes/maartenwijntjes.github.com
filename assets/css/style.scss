@@ -10,9 +10,10 @@
   background-image: url("/images/header.jpg");/*linear-gradient(120deg, red, green)*/
   }
 
-@import url("https://fonts.googleapis.com/css?family=Noto+Serif");
-html {
-    font-family: 'Noto Serif', serif;
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%
+.main-content h1, .main-content h2, .main-content h3, .main-content h4,
+.main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #991515
 }
