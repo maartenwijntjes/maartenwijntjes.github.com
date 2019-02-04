@@ -22,7 +22,7 @@ I am an assistant professor at the Delft University of Technology, department of
 <div id="sketch-holder1"></div>
 
 
-## Musuem collections with nice high quality pictures
+## Museum collections with nice high quality pictures
 
 - [Metropolitan](https://www.metmuseum.org/art/collection/)
 - [Rijksmuseum](https://www.rijksmuseum.nl/en/search)
