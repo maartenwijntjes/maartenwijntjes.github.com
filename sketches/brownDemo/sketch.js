@@ -37,7 +37,7 @@ function draw() {
   	k=x2int(map(rotation,-20,20,0,canvas.width));
   	text(k,30,90);
   	text(canvas.width,30,120);
-  	text(canvas.width,30,150);
+  	text(canvaswidth,30,150);
   } else{
   	k=x2int(constrain(mouseX,0,canvas.width));
   }
