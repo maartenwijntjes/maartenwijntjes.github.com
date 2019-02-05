@@ -1,4 +1,4 @@
-//check maarten...
+//check maarten... 1
 
 var start = 1;
 var finish = 9;
@@ -9,7 +9,7 @@ var k=0;
 function preload() {
   testim=loadImage("brownian/brownian 9.jpg");
   for (var i = start; i<=finish; i++) {
-    imgs[i-start]=loadImage("sketches/brownianDemo/brownian/brownian "+str(i)+".jpg");
+    imgs[i-start]=loadImage("sketches/brownDemo/brownian/brownian "+str(i)+".jpg");
   }
 }
 
