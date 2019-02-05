@@ -19,11 +19,11 @@ function setup() {
 
 function draw() {
   background(220);
-  k=x2int(mouseX);
+  k=x2int(constrain(mouseX,0,canvas.width));
   image(imgs[k],0,0);
 }
 
 function x2int(x){
-  return round(x/canvas.width*finish)
+  return round(x/canvas.width*finish);
 }
 
