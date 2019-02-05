@@ -7,16 +7,8 @@ My research in Delft started with ecological optics but I quickly became interes
 
 I am chair of the organisation committee of The Skin of Things, an international symposium about the depiction of material properties in Amsterdam. Furthermore, I am guest editor of a special issue about material depiction in the journal Art and Perception (Brill). 
 
+# More research info
 
-
-<!---
-<iframe src="https://editor.p5js.org/maartenwijntjes/embed/OTdnso7os" width="400" height="400"></iframe>
--->
-
-<!---
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
-<script src="sketch1.js" ></script>
--->
 
 <div id="brownDemo"></div>
 
@@ -36,7 +28,6 @@ I am chair of the organisation committee of The Skin of Things, an international
 
 - [general list I found](http://www.openculture.com/2016/05/1-8-million-free-works-of-art-from-world-class-museums-a-meta-list.html)
 
-## Quick test
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
