@@ -5,6 +5,7 @@ var finish = 9;
 var imgs = [];
 var testim;
 var k=0;
+var canvaswidth=400;
 
 function preload() {
   for (var i = start; i<=finish; i++) {
@@ -13,7 +14,11 @@ function preload() {
 }
 
 function setup() {
-  var canvas=createCanvas(400, 266);
+	if(windowWidth<400){
+		canvaswidth=windowWidth;
+	}
+
+  var canvas=createCanvas(canvaswidth, canvaswidth/1.5);
   canvas.parent('brownianDemo');
 }
 
