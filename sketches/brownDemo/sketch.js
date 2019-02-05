@@ -32,10 +32,12 @@ function draw() {
   if(rotationY!=0){
   	stroke(255,128,128);
   	text(rotationY,30,30);
-  	rotation=constrain(rotationY,-19.99,19.99);
+  	rotation=constrain(rotationY,-20,20);
   	text(rotation,30,60);
   	k=x2int(map(rotation,-20,20,0,canvas.width));
   	text(k,30,90);
+  	text(canvas.width,30,120);
+  	text(canvas.width,30,150);
   } else{
   	k=x2int(constrain(mouseX,0,canvas.width));
   }
