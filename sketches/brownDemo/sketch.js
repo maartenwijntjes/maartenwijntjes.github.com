@@ -24,6 +24,6 @@ function draw() {
 }
 
 function x2int(x){
-  return round(x/width*finish)
+  return round(x/canvas.width*finish)
 }
 
