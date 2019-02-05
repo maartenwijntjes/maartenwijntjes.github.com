@@ -25,7 +25,7 @@ function setup() {
 
 function draw() {
   background(220);
-  image(imgs[k],0,0);
+  image(imgs[k],0,0,canvaswidth, canvaswidth/1.5);
 
   
   
