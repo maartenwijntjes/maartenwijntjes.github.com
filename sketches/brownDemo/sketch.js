@@ -28,7 +28,7 @@ function draw() {
   if(rotationY!=0){
   	stroke(255,128,128);
   	text(rotationY,30,30);
-  	rotation=constrain(rotationY,-20,20);
+  	rotation=constrain(rotationY,-19.99,19.99);
   	text(rotation,30,60);
   	k=x2int(map(rotation,-20,20,0,canvas.width));
   	text(k,30,90);
