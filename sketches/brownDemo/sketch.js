@@ -6,6 +6,7 @@ var imgs = [];
 var testim;
 var k=0;
 var canvaswidth=400;
+var rotation;
 
 function preload() {
   for (var i = start; i<=finish; i++) {
@@ -15,7 +16,7 @@ function preload() {
 
 function setup() {
 	if(windowWidth<400){
-		canvaswidth=windowWidth;
+		canvaswidth=windowWidth/2;
 	}
 
   var canvas=createCanvas(canvaswidth, canvaswidth/1.5);
@@ -24,7 +25,13 @@ function setup() {
 
 function draw() {
   background(220);
-  k=x2int(constrain(mouseX,0,canvas.width));
+  if(rotationY!=0){
+  	rotation=constrain(rotationY,-20,20);
+  	k=x2int(map(rotation,0,canvas.width));
+  } else{
+  	k=x2int(constrain(mouseX,0,canvas.width));
+  }
+  
   image(imgs[k],0,0);
   stroke(255,128,128);
   text(rotationY,30,30);
