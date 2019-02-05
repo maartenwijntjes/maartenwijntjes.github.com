@@ -19,8 +19,8 @@ function setup() {
 		canvaswidth=windowWidth*0.8;
 	}
 
-  var canvas=createCanvas(canvaswidth, canvaswidth/1.5);
-  canvas.parent('brownianDemo');
+  var canvasss=createCanvas(canvaswidth, canvaswidth/1.5);
+  canvasss.parent('brownianDemo');
 }
 
 function draw() {
@@ -34,12 +34,12 @@ function draw() {
   	text(rotationY,30,30);
   	rotation=constrain(rotationY,-20,20);
   	text(rotation,30,60);
-  	k=x2int(map(rotation,-20,20,0,canvas.width));
+  	k=x2int(map(rotation,-20,20,0,canvaswidth));
   	text(k,30,90);
   	text(canvas.width,30,120);
   	text(canvaswidth,30,150);
   } else{
-  	k=x2int(constrain(mouseX,0,canvas.width));
+  	k=x2int(constrain(mouseX,0,canvaswidth));
   }
 
   
