@@ -26,6 +26,8 @@ function draw() {
   background(220);
   k=x2int(constrain(mouseX,0,canvas.width));
   image(imgs[k],0,0);
+  stroke(255,128,128);
+  text(rotationY,30,30);
 }
 
 function x2int(x){
