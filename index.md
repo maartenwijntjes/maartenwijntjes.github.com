@@ -10,7 +10,7 @@ I am chair of the organisation committee of The Skin of Things, an international
 # More research info
 
 
-<div id="brownDemo"></div>
+<div id="brownianDemo"></div>
 
 
 ## Museum collections with nice high quality pictures
@@ -30,5 +30,5 @@ I am chair of the organisation committee of The Skin of Things, an international
 
 
 
-<script src="sketches/brownDemo/p5.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
 <script src="sketches/brownDemo/sketch.js"></script>
