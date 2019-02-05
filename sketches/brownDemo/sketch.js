@@ -1,3 +1,5 @@
+//check maarten...
+
 var start = 1;
 var finish = 9;
 var imgs = [];
