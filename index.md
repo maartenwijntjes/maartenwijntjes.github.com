@@ -1,12 +1,11 @@
 
 
-## About
-I am an assistant professor at the Delft University of Technology, department of Industrial Design Engineering. My main interests are old (art history) and new (digital/interactive) ways of visual communication. I am specifically intrigued by the depiction of *material properties* because
-* Art historically super interesting
-* Online shopping
-* Some physics involved
-* Relatively unexplored
-* We live in a ... nevermind
+# Bio
+After my PhD research (2008) on haptic perception at the Physics department of Utrecht University, I worked as a post-doc on visual perception at Delft University of Technology, faculty of Industrial Design Engineering. In 2012 I became (tenured) assistant professor and have been teaching Visual Communication Design, Lighting Design, and Colour Ergonomics. 
+
+My research in Delft started with ecological optics but I quickly became interested in pictorial space, the perception of depth in pictures and paintings. In 2010 I received an NWO VENI grant to work on these ideas. The outcomes were novel methods to quantify visual depth perception and insights on the difference between real and pictorial depth. In 2014 I became interested in material perception and started an NWO funded collaboration with G-Star to study what material properties consumers perceive in (online) pictures. These ideas catalysed a larger project that was awarded a NWO VIDI grant (2016) about the depiction of material properties. In this (on going) project, we are annotating large online collections with labels of depicted materials in paintings. Through rich annotations we are trying to extract the artist’s knowledge about visual material perception. This project is in tandem with a NICAS/NWO funded project about the pictorial recipes of golden age painter/writer Willem Beurs. Furthermore, I am also involved as a PhD supervisor on a Marie Curie Training Network grant. 
+
+I am chair of the organisation committee of The Skin of Things, an international symposium about the depiction of material properties in Amsterdam. Furthermore, I am guest editor of a special issue about material depiction in the journal Art and Perception (Brill). 
 
 
 
@@ -19,7 +18,7 @@ I am an assistant professor at the Delft University of Technology, department of
 <script src="sketch1.js" ></script>
 -->
 
-<div id="sketch-holder1"></div>
+<div id="brownDemo"></div>
 
 
 ## Museum collections with nice high quality pictures
@@ -41,4 +40,4 @@ I am an assistant professor at the Delft University of Technology, department of
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
-<script src="sketch1.js"></script>
+<script src="sketches/brownDemo/sketch.js"></script>
