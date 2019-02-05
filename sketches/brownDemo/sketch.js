@@ -25,6 +25,10 @@ function setup() {
 
 function draw() {
   background(220);
+  image(imgs[k],0,0);
+
+  
+  
   if(rotationY!=0){
   	stroke(255,128,128);
   	text(rotationY,30,30);
@@ -36,7 +40,6 @@ function draw() {
   	k=x2int(constrain(mouseX,0,canvas.width));
   }
 
-  image(imgs[k],0,0);
   
   //text(rotationY,30,30);
 }
