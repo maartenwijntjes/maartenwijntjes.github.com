@@ -7,7 +7,6 @@ var testim;
 var k=0;
 
 function preload() {
-  testim=loadImage("brownian/brownian 9.jpg");
   for (var i = start; i<=finish; i++) {
     imgs[i-start]=loadImage("sketches/brownDemo/brownian/brownian "+str(i)+".jpg");
   }
