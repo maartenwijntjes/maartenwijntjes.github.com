@@ -1,16 +1,16 @@
 
 
 # Bio
-After my PhD research (2008) on haptic perception at the Physics department of Utrecht University, I worked as a post-doc on visual perception at Delft University of Technology, faculty of Industrial Design Engineering. In 2012 I became (tenured) assistant professor and have been teaching Visual Communication Design, Lighting Design, and Colour Ergonomics. 
+After my finishing my MSc. degree in Physics (Groningen University), I wanted to do something else and discovered a very cool research field: Perception! It is an area crowded by many different scientific disciplines and I have enjoyed this ever since starting my PhD on haptic perception at the Physics department of Utrecht University. After 4 years of letting participants feel thousands of parameterised shapes and linedrawings, I started as a post-doc on visual perception at Delft University of Technology, faculty of Industrial Design Engineering. In 2012 I became (tenured) assistant professor and have been teaching Visual Communication Design, Lighting Design, and Colour Ergonomics. 
 
-My research in Delft started with ecological optics but I quickly became interested in pictorial space, the perception of depth in pictures and paintings. In 2010 I received an NWO VENI grant to work on these ideas. The outcomes were novel methods to quantify visual depth perception and insights on the difference between real and pictorial depth. In 2014 I became interested in material perception and started an NWO funded collaboration with G-Star to study what material properties consumers perceive in (online) pictures. These ideas catalysed a larger project that was awarded a NWO VIDI grant (2016) about the depiction of material properties. In this (on going) project, we are annotating large online collections with labels of depicted materials in paintings. Through rich annotations we are trying to extract the artist’s knowledge about visual material perception. This project is in tandem with a NICAS/NWO funded project about the pictorial recipes of golden age painter/writer Willem Beurs. Furthermore, I am also involved as a PhD supervisor on a Marie Curie Training Network grant. 
+My research in Delft started with ecological optics but I quickly became interested in pictorial space, the perception of depth in pictures and paintings. In 2010 I received an NWO VENI grant to work on these ideas. The outcomes were novel methods to quantify visual depth perception and insights on the difference between real and pictorial depth. In 2014 I became interested in material perception and started an NWO funded collaboration with G-Star to study what material properties consumers perceive in (online) pictures. These ideas catalysed a larger project that was awarded a NWO VIDI grant (2016) about the depiction of material properties. In this (ongoing) project, we are annotating large online collections with labels of depicted materials in paintings. Through rich annotations we are trying to extract the artist’s knowledge about visual material perception. This project is in tandem with a NICAS/NWO funded project about the pictorial recipes of golden age painter/writer Willem Beurs. Furthermore, I am also involved as a PhD supervisor on a Marie Curie Training Network grant. 
 
-I am chair of the organisation committee of The Skin of Things, an international symposium about the depiction of material properties in Amsterdam. Furthermore, I am guest editor of a special issue about material depiction in the journal Art and Perception (Brill). 
+# Selection of cool studies that were recently published/preprinted:
 
-# More research info
+## (Conventions and temporal differences in painted faces: A study of posture and color distribution)[https://doi.org/10.2352/ISSN.2470-1173.2020.11.HVEI-267]
 
 
-<div id="brownianDemo"></div>
+<!--<div id="brownianDemo"></div>-->
 
 
 ## Museum collections with nice high quality pictures
@@ -25,7 +25,7 @@ I am chair of the organisation committee of The Skin of Things, an international
 - [wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
 - [Art Institute Chicago](https://www.artic.edu/collection)
 - [Cleveland museum of art](http://www.clevelandart.org/)
-
+- [Paris Musées](http://parismuseescollections.paris.fr/en)
 - [general list I found](http://www.openculture.com/2016/05/1-8-million-free-works-of-art-from-world-class-museums-a-meta-list.html)
 
 
