@@ -7,9 +7,9 @@ My research in Delft started with ecological optics but I quickly became interes
 
 # Research selection
 
-Title: **Conventions and temporal differences in painted faces: A study of posture and color distribution**
-Authors: van Zuijlen, Mitchell J.P.; Pont, Sylvia C.; Wijntjes, Maarten W.A.
-Source: [Electronic Imaging, Human Vision and Electronic Imaging 2020, pp. 267-1-267-8(8)][https://doi.org/10.2352/ISSN.2470-1173.2020.11.HVEI-267]
+Title: **Conventions and temporal differences in painted faces: A study of posture and color distribution**<br>
+Authors: van Zuijlen, Mitchell J.P.; Pont, Sylvia C.; Wijntjes, Maarten W.A. <br>
+Source: [Electronic Imaging, Human Vision and Electronic Imaging 2020, pp. 267-1-267-8(8)](https://doi.org/10.2352/ISSN.2470-1173.2020.11.HVEI-267)
 
 Before we started collecting hand annotated materials throughout art history, we wanted to practive in someting that is relatively easy to automatically extract: faces! We got 11.6K of them ([here](https://doi.org/10.4121/uuid:3beee8ef-1b7e-451f-966f-13230cb2bbe7) are they), and analysed their poster and skin colour. 
 
