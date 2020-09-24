@@ -15,8 +15,7 @@ Before we started collecting hand annotated materials throughout art history, we
 
 
 
-<div id="c1"></div> <br>
-<div id="c2"></div>
+<div id="c1"></div> 
 
 
 <!--<div id="brownianDemo"></div>-->

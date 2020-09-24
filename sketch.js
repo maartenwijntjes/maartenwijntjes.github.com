@@ -28,9 +28,7 @@ var ii = 0
    p.draw= function()  {
     p.background(0);
      
-     let k = p.int(p.map(p.mouseX,p.width,0,0,ims.length-1,true));
-     p.stroke(255)
-     p.text(k,20,20);
+    let k = p.int(p.map(p.mouseX,p.width,0,0,ims.length-1,true)); 
     p.imageMode(p.CENTER);
     p.image(ims[k], p.width/2, p.height/2,200,200); // show the ii-th image in the canvas
     
