@@ -1,7 +1,7 @@
 // save this file as sketch.js
 // Sketch One
 
-let face = function(p){
+var face = function(p){
 
 var ims = [];
 var ii = 0
@@ -36,7 +36,7 @@ var ii = 0
     
   }
 }
-let myp5 = new p5(face,'c1')
+var myp5 = new p5(face,'c1')
 
 
 /*var s = function( p ) { // p could be any variable name
