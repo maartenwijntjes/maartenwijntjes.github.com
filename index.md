@@ -1,9 +1,6 @@
 
+I teach and study visual perception and communication. <i>Perception and communication of what???"</i> I hear you thinking... good question. Mostly subjects that can also be physically or mathematically described, such as light, space, shape and material properties. 
 
-# Bio
-After my finishing my MSc. degree in Physics (Groningen University), I wanted to do something else and discovered a very cool research field: Perception! It is an area crowded by many different scientific disciplines and I have enjoyed this ever since starting my PhD on haptic perception at the Physics department of Utrecht University. After 4 years of letting participants feel thousands of parameterised shapes and line drawings, I started as a post-doc on visual perception at Delft University of Technology, faculty of Industrial Design Engineering. In 2012 I became (tenured) assistant professor and have been teaching Visual Communication Design, Lighting Design, and Colour Ergonomics. 
-
-My research in Delft started with ecological optics but I quickly became interested in pictorial space, the perception of depth in pictures and paintings. In 2010 I received an NWO VENI grant to work on these ideas. The outcomes were novel methods to quantify visual depth perception and insights on the difference between real and pictorial depth. In 2014 I became interested in material perception and started an NWO funded collaboration with G-Star to study what material properties consumers perceive in (online) pictures. These ideas catalysed a larger project that was awarded a NWO VIDI grant (2016) about the depiction of material properties. In this (ongoing) project, we are annotating large online collections with labels of depicted materials in paintings. Through rich annotations we are trying to extract the artist’s knowledge about visual material perception. This project is in tandem with a NICAS/NWO funded project about the pictorial recipes of golden age painter/writer Willem Beurs. Furthermore, I am also involved as a PhD supervisor on a Marie Curie Training Network grant. 
 
 # Research selection
 
@@ -22,7 +19,13 @@ Or look at this mesmerizing picture (including some face detection errors!), whe
 ![](images/imcol.jpg) 
 
 
+
 <!--<div id="brownianDemo"></div>-->
+
+# Bio
+After my finishing my MSc. degree in Physics (Groningen University), I wanted to do something else and discovered a very cool research field: Perception! It is an area crowded by many different scientific disciplines and I have enjoyed this ever since starting my PhD on haptic perception at the Physics department of Utrecht University. After 4 years of letting participants feel thousands of parameterised shapes and line drawings, I started as a post-doc on visual perception at Delft University of Technology, faculty of Industrial Design Engineering. In 2012 I became (tenured) assistant professor and have been teaching Visual Communication Design, Lighting Design, and Colour Ergonomics. 
+
+My research in Delft started with ecological optics but I quickly became interested in pictorial space, the perception of depth in pictures and paintings. In 2010 I received an NWO VENI grant to work on these ideas. The outcomes were novel methods to quantify visual depth perception and insights on the difference between real and pictorial depth. In 2014 I became interested in material perception and started an NWO funded collaboration with G-Star to study what material properties consumers perceive in (online) pictures. These ideas catalysed a larger project that was awarded a NWO VIDI grant (2016) about the depiction of material properties. In this (ongoing) project, we are annotating large online collections with labels of depicted materials in paintings. Through rich annotations we are trying to extract the artist’s knowledge about visual material perception. This project is in tandem with a NICAS/NWO funded project about the pictorial recipes of golden age painter/writer Willem Beurs. Furthermore, I am also involved as a PhD supervisor on a Marie Curie Training Network grant. 
 
 
 ## Museum collections with nice high quality pictures
