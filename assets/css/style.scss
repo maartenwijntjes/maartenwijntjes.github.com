@@ -7,7 +7,8 @@
   color: white;
   text-align: center;
   background-color: white;
-  background-image: url("/images/header.jpg");/*linear-gradient(120deg, red, green)*/
+  /*background-image: url("/images/header.jpg");*/
+  linear-gradient(120deg, red, green)
   }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4,
@@ -15,5 +16,5 @@
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: #991515
+    color: #000077
 }
