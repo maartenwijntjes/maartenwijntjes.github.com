@@ -1,5 +1,5 @@
 
-I teach and study visual perception and communication. <i>of what?"</i>  I hear you thinking... good question. Mostly subjects that can also be physically or mathematically described, such as light, space, shape and material properties. The main two subjects i enjoy very much at the moment are:
+I teach and study visual perception and communication. <i>"of what?"  i hear you thinking... good question</i>. Mostly subjects that can also be physically or mathematically described, such as light, space, shape and material properties. The main two subjects i enjoy very much at the moment are:
 - **Artistic material depictions**: we are creating a database of material depictions throughout art history. Main motivation is to see if we can learn something about perception from artists. Side motivations include digital art history and machine learning. 
 - **Online shopping**: how to optimize movies and images so that raised expectations are met when the product is delivered? It is both an interesting societal problem (reduce returns & logistics) as well as a fundamentally interesting subject (difference between reality and representations).
 
