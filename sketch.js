@@ -22,15 +22,17 @@ var ii = 0
     // create a canvas, with the size and height of the first image
     //var myDiv = p.select('c1');
     //var myWidth = myDiv.style.width;
-    let b = p.document.getElementById("parentElement");
-    let w = b.clientWidth;
+    //let b = p.document.getElementById("parentElement");
+    //let w = b.clientWidth;
     console.log('width: ' + w);
     console.log('hoiw!!!!');
-    p.createCanvas(500, 300)
+    p.createCanvas(300, 300)
     
   }
 
    p.draw= function()  {
+    p.stroke(255);
+    p.text("Move mouse left-right",20,20)
     p.background(0);
      
     let k = p.int(p.map(p.mouseX,p.width,0,0,ims.length-1,true)); 
