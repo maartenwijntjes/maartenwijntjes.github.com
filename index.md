@@ -25,7 +25,7 @@ Or look at this mesmerizing picture (including some face detection errors!), whe
 
 
 
-<video width="320" height="240" controls>
+<video width="960" height="540" controls loop>
   <source type="video/mp4" src="images/gstar.mp4">
 </video>
 
