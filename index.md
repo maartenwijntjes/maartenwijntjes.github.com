@@ -26,7 +26,9 @@ The database is pretty cool because of the many parameters. In the demo below yo
 
 
 <div class="polaroid">
-  <img src="images/imcol.jpg" alt="imcol" style="width:100%">
+	<a href="images/imcol.jpg" target="_blank">
+ 	 <img src="images/imcol.jpg" alt="imcol" style="width:100%">
+	</a>a>
   <div class="container">
     <p>A small selection of faces that were ordered on hue. </p>
   </div>
