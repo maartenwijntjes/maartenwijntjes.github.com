@@ -23,7 +23,7 @@ The database is pretty cool because of the many parameters. In the demo below yo
 
 <div id="c1"></div> 
 
-
+Based on the face landmark data we could segment faces and isolate the *skin* color. We calculated mean, standard deviation and skewness values of luminance, saturation and hue. Below we visualized a bunch of faces ordered on mean hue:
 
 <div class="polaroid">
 	<a href="images/imcol.jpg" target="_blank">
