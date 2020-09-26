@@ -20,7 +20,9 @@ var ii = 0
 
    p.setup= function()  {
     // create a canvas, with the size and height of the first image
-    
+    var myDiv = select('c1');
+    var myWidth = myDiv.style.width;
+    console.log('width: ' + myWidth);
     p.createCanvas(500, 300)
     
   }
