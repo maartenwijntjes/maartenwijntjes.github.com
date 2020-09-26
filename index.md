@@ -9,6 +9,7 @@ Besides these main research lines, I study and produce the [synopter](http://www
 
 # Research selection
 
+## Art historical faces
 
 Title: **Conventions and temporal differences in painted faces: A study of posture and color distribution**<br>
 Authors: van Zuijlen, Mitchell J.P.; Pont, Sylvia C.; Wijntjes, Maarten W.A. <br>
@@ -20,13 +21,12 @@ The database is pretty cool because of the many parameters. In the demo below yo
 
 <div id="c1"></div> 
 
-Or look at this mesmerizing picture (including some face detection errors!), where I sorted on hue value:
-![](images/imcol.jpg) 
+
 
 <div class="polaroid">
   <img src="images/imcol.jpg" alt="imcol" style="width:100%">
   <div class="container">
-    <p>Jippieeeeee</p>
+    <p>A small selection of faces that were ordered on hue. </p>
   </div>
 </div>
 
