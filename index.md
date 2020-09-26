@@ -48,6 +48,17 @@ Jeans are fantastic research material, because they can *look* rather similar wh
   <source type="video/mp4" src="images/gstar.mp4">
 </video>
 
+<div class="polaroid">
+
+<video width="960" height="540" controls loop autoplay>
+  <source type="video/mp4" src="images/gstar.mp4">
+</video>
+
+  <div class="container">
+    <p>A small selection of faces that were ordered on hue. </p>
+  </div>
+</div>
+
 
 ***
 
