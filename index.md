@@ -9,6 +9,8 @@ Besides these main research lines, I study and produce the [synopter](http://www
 
 # Research selection
 
+***
+
 ## Art historical faces
 
 Title: **Conventions and temporal differences in painted faces: A study of posture and color distribution**<br>
@@ -30,6 +32,7 @@ The database is pretty cool because of the many parameters. In the demo below yo
   </div>
 </div>
 
+***
 
 <video width="960" height="540" controls loop autoplay>
   <source type="video/mp4" src="images/gstar.mp4">
