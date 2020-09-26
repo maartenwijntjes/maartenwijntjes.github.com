@@ -11,7 +11,7 @@ Besides these main research lines, I study and produce the [synopter](http://www
 
 ***
 
-## Art historical faces
+## Faces throughout art history
 
 Title: **Conventions and temporal differences in painted faces: A study of posture and color distribution**<br>
 Authors: van Zuijlen, Mitchell J.P.; Pont, Sylvia C.; Wijntjes, Maarten W.A. <br>
@@ -36,9 +36,25 @@ Based on the face landmark data we could segment faces and isolate the *skin* co
 
 ***
 
+## Online shopping - advantage of movies over pictures
+
+Title: **Visual communication of how fabrics feel**<br>
+Authors: Wijntjes, Maarten W.A.; Xiao, Bei; Volcic, Robert <br>
+Source: [Journal of Vision (2019) Vol.19 (2), 4.](https://jov.arvojournals.org/article.aspx?articleid=2724349)
+
+Jeans are fantastic research material, because they can *look* rather similar while *feel* very different. We checked whether you can infer how jeans feel from photos and videos, and found an advantage of videos. We also discussed some more methodological issues concerning this awesome topic of comparing reality with representation.  
+
 <video width="960" height="540" controls loop autoplay>
   <source type="video/mp4" src="images/gstar.mp4">
 </video>
+
+
+***
+
+Title: **Thurstonian Scaling and the Perception of Painterly Translucency**
+
+## Online shopping - advantage of movies over pictures
+
 
 
 <!--<div id="brownianDemo"></div>-->
