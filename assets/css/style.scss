@@ -35,3 +35,9 @@ body {
     line-height: 1.5;
     color: #000000;
 }
+
+video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
+}
