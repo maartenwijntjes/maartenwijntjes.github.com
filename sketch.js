@@ -22,7 +22,7 @@ var ii = 0
     // create a canvas, with the size and height of the first image
     //var myDiv = p.select('c1');
     //var myWidth = myDiv.style.width;
-    let b = document.getElementById("parentElement");
+    let b = p.document.getElementById("parentElement");
     let w = b.clientWidth;
     console.log('width: ' + w);
     console.log('hoiw!!!!');
