@@ -23,6 +23,12 @@ The database is pretty cool because of the many parameters. In the demo below yo
 Or look at this mesmerizing picture (including some face detection errors!), where I sorted on hue value:
 ![](images/imcol.jpg) 
 
+<div class="polaroid">
+  <img src="images/imcol.jpg" alt="imcol" style="width:100%">
+  <div class="container">
+    <p>Jippieeeeee</p>
+  </div>
+</div>
 
 
 <video width="960" height="540" controls loop autoplay>
