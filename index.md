@@ -25,6 +25,11 @@ Or look at this mesmerizing picture (including some face detection errors!), whe
 
 
 
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="images/gstar.mp4">
+</video>
+
+
 <!--<div id="brownianDemo"></div>-->
 
 # Bio
