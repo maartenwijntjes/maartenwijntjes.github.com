@@ -78,6 +78,17 @@ After looking at many paintings of the sea we wondered what topic would be inter
 </div>
 
 
+
+<div class="polaroid">
+	<a href="images/pseexample4.jpg" target="_blank">
+ 	 <img src="images/pseexample4.jpg" alt="imcol" style="width:100%">
+	</a>
+  <div class="container">
+    <p>Thurstonian scaling of wave translucency (with cool psychometric curves;).  </p>
+  </div>
+</div>
+
+
 <!--<div id="brownianDemo"></div>-->
 
 # Bio
