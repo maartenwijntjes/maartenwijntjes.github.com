@@ -15,9 +15,10 @@ Besides these main research lines, I study and produce the [synopter](http://www
 
 Title: **Conventions and temporal differences in painted faces: A study of posture and color distribution**<br>
 Authors: van Zuijlen, Mitchell J.P.; Pont, Sylvia C.; Wijntjes, Maarten W.A. <br>
-Source: [Electronic Imaging, Human Vision and Electronic Imaging 2020, pp. 267-1-267-8(8)](https://doi.org/10.2352/ISSN.2470-1173.2020.11.HVEI-267)
+Source: [Electronic Imaging, Human Vision and Electronic Imaging 2020, pp. 267-1-267-8(8)](https://doi.org/10.2352/ISSN.2470-1173.2020.11.HVEI-267)<br>
+Data: [Face database](https://doi.org/10.4121/uuid:3beee8ef-1b7e-451f-966f-13230cb2bbe7)
 
-Before we started collecting hand annotated materials throughout art history, we wanted to practice in something that is relatively easy to automatically extract: faces! We got 11.6K of them ([here](https://doi.org/10.4121/uuid:3beee8ef-1b7e-451f-966f-13230cb2bbe7) are they), and analysed their posture and skin colour through history. 
+Before we started collecting hand annotated materials throughout art history, we wanted to practice in something that is relatively easy to automatically extract: faces! We got 11.6K of them are they), and analysed their posture and skin colour through history. 
 
 The database is pretty cool because of the many parameters. In the demo below you see a selection of various 'yaw' angles while keeping pitch and roll more or less fixed (slide your mouse horizontally!):
 
