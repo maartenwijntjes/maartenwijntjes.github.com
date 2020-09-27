@@ -65,6 +65,7 @@ Jeans are fantastic research material, because they can *look* rather similar wh
 Title: **Thurstonian Scaling and the Perception of Painterly Translucency**
 Authors: Wijntjes, Maarten W.A.; Spoiala, Cristina; 
 
+After looking at many paintings of the sea we wondered what topic would be interesting to dive into. What we really liked about seas is that it is a (somewhat) similar *material* but takes on vastly different shapes and is illuminated in many different ways (clouded/partly clouded,sunsets etc!). 
 
 <!--<div id="brownianDemo"></div>-->
 

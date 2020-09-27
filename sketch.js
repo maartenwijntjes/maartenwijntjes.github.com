@@ -10,9 +10,18 @@ var ii = 0
 
 // This sketch loads in images, and then displays each image in rapid succession.
 
+// some notes with respect to responsiveness.... these are the boundaries (64em and 16em, em means times fontsize wich seems to be 16)
+// 64*16=1024; 42*16=672; 
+
 
   p.preload = function() {
     let images = 82
+
+    let widthMax=1024;
+    let widthMedium=672;
+    let emSize=16;
+    let marginPadding=(2+6)*emSize;
+
     for (let i = 1; i <= images; i++) {
       path = 'demoYaw/' + p.str(i) + '.jpg' // create a path to the image
       loaded_image = p.loadImage(path)     // load the image from the path
@@ -23,7 +32,7 @@ var ii = 0
    p.setup= function()  {
     // create a canvas, with the size and height of the first image
 
-    p.createCanvas(300, 400)
+    p.createCanvas(marginPadding-marginPadding, 400)
     
   }
 
@@ -60,24 +69,3 @@ var myp5 = new p5(face,'c1')
 var myp5 = new p5(s, 'c1');
 */
 
-// Sketch Two
-var t = function( p ) { 
-  var x = 100.0; 
-  var y = 100; 
-  var speed = 2.5; 
-  p.setup = function() {
-    p.createCanvas(400, 200);
-  };
-
-  p.draw = function() {
-    p.background(100);
-    p.fill(1);
-    x += speed; 
-    if(x > p.width){
-      x = 0; 
-    }
-    p.ellipse(x,y,50,50);
-
-  };
-};
-var myp5 = new p5(t, 'c2');
