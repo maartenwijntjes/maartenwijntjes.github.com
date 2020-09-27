@@ -1,6 +1,8 @@
 // save this file as sketch.js
 // Sketch One
 
+https://stackoverflow.com/questions/37083287/how-to-set-canvas-width-height-using-parent-divs-attributes
+
 var face = function(p){
 
 var ims = [];
@@ -21,7 +23,7 @@ var ii = 0
    p.setup= function()  {
     // create a canvas, with the size and height of the first image
 
-    p.createCanvas(300, 300)
+    p.createCanvas(300, 400)
     
   }
 
@@ -29,6 +31,8 @@ var ii = 0
     p.background(0);
     p.stroke(255);
     p.text("Move mouse left-right",20,20)
+    p.text("width = " + windowWidth,20,40)
+    
     
      
     let k = p.int(p.map(p.mouseX,p.width,0,0,ims.length-1,true)); 
