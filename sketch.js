@@ -7,6 +7,7 @@ var face = function(p){
 
 var ims = [];
 var ii = 0
+let t=0;
 
 // This sketch loads in images, and then displays each image in rapid succession.
 
@@ -17,7 +18,7 @@ var ii = 0
   p.preload = function() {
     let images = 82
     let horizontalPosition=0;
-    let t=0;
+    
     
     //let marginPadding=(2+6)*emSize;
     
