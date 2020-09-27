@@ -55,7 +55,8 @@ var ii = 0
 
   p.windowResized = function() {
     if(p.windowWidth<672){
-    p.resizeCanvas(p.windowWidth, 300);
+    //padding = 2em on both left and right side, em  = 16 so.... 
+    p.resizeCanvas(p.windowWidth-4*16, 300);
   }
 }
 
