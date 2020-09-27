@@ -48,7 +48,7 @@ Jeans are fantastic research material, because they can *look* rather similar wh
 
 <div class="polaroid">
 
-<video width=100% controls>
+<video width=853px height=480px controls>
   <source type="video/mp4" src="images/gstar480.mp4">
 </video>
 
@@ -60,10 +60,10 @@ Jeans are fantastic research material, because they can *look* rather similar wh
 
 ***
 
+
+## Translucent waves
 Title: **Thurstonian Scaling and the Perception of Painterly Translucency**
-
-## Online shopping - advantage of movies over pictures
-
+Authors: Wijntjes, Maarten W.A.; Spoiala, Cristina; 
 
 
 <!--<div id="brownianDemo"></div>-->
