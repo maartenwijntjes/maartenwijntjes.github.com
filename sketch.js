@@ -65,8 +65,8 @@ let t=0;
     p.imageMode(p.CENTER);
     p.image(ims[k], p.width/2, p.height/2,200,200); // show the ii-th image in the canvas
     p.rectMode(p.CENTER);
-    fill(128,128);
-    ellipse(p.map(k,0,82,0,width),100,10,10);
+    p.fill(128,128);
+    p.ellipse(p.map(k,0,82,0,width),100,10,10);
   }
 
   p.windowResized = function() {

@@ -77,10 +77,10 @@ After looking at many paintings of the sea we wondered what topic would be inter
   </div>
 </div>
 
-
+We explored the use of Thurstonian scaling: a well-known psychophysical scaling method that is based in pairwise comparisons ("which of these two stimuli/pictures is more [...]"). Because the scaling algorithm uses discrimination thresholds (so called "Just Noticeable Distances") to reconstruct distances, we thought it would be interesting to introduce the concept of Number of Distinguishable Levels (NDLs). It basically equates how many perceivable shades of something (e.g. [greyness](https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey)) are present. 
 
 <div class="polaroid">
-	<a href="images/pseexample4.jpg" target="_blank">
+	<a href="images/pseexampleFull.jpg" target="_blank">
  	 <img src="images/pseexample4.jpg" alt="imcol" style="width:100%">
 	</a>
   <div class="container">
