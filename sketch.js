@@ -17,9 +17,7 @@ var ii = 0
   p.preload = function() {
     let images = 82
 
-    let widthMax=1024;
-    let widthMedium=672;
-    let emSize=16;
+    
     //let marginPadding=(2+6)*emSize;
     
 
@@ -32,7 +30,11 @@ var ii = 0
 
    p.setup= function()  {
     // create a canvas, with the size and height of the first image
-    let pwid=896;
+    let widthMax=1024;
+    let widthMedium=672;
+    let emSize=16;
+    let padding=6;
+    let pwid=widthMax-emSize*padding;
     p.createCanvas(pwid, 400)
     
   }
