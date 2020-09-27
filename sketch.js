@@ -56,7 +56,7 @@ var ii = 0
   p.windowResized = function() {
     if(p.windowWidth<672){
     p.resizeCanvas(p.windowWidth, 300);
-}
+  }
 }
 
 }
