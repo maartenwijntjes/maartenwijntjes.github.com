@@ -28,7 +28,7 @@ var ii = 0
     }
   }
 
-   p.setup= function()  {
+   p.setup = function()  {
     // create a canvas, with the size and height of the first image
     let widthMax=1024;
     let widthMedium=672;
@@ -39,7 +39,7 @@ var ii = 0
     
   }
 
-   p.draw= function()  {
+   p.draw = function()  {
     p.background(0);
     p.fill(255);
     p.text("Move mouse left-right",20,20)
@@ -52,6 +52,13 @@ var ii = 0
     p.image(ims[k], p.width/2, p.height/2,200,200); // show the ii-th image in the canvas
     
   }
+
+  p.windowResized = function() {
+    if(p.windowWidth<672){
+    p.resizeCanvas(p.windowWidth, 300);
+}
+}
+
 }
 var myp5 = new p5(face,'c1')
 
