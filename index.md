@@ -67,6 +67,17 @@ Authors: Wijntjes, Maarten W.A.; Spoiala, Cristina;
 
 After looking at many paintings of the sea we wondered what topic would be interesting to dive into. What we really liked about seas is that it is a (somewhat) similar *material* but takes on vastly different shapes and is illuminated in many different ways (clouded/partly clouded,sunsets etc!). 
 
+
+<div class="polaroid">
+	<a href="images/translucentSeas.jpg" target="_blank">
+ 	 <img src="images/translucentSeas.jpg" alt="imcol" style="width:100%">
+	</a>
+  <div class="container">
+    <p>Examples of the 4 categories we used.  </p>
+  </div>
+</div>
+
+
 <!--<div id="brownianDemo"></div>-->
 
 # Bio
