@@ -21,7 +21,7 @@ var ii = 0
     let widthMedium=672;
     let emSize=16;
     //let marginPadding=(2+6)*emSize;
-    let pwid=896;
+    
 
     for (let i = 1; i <= images; i++) {
       path = 'demoYaw/' + p.str(i) + '.jpg' // create a path to the image
@@ -32,7 +32,7 @@ var ii = 0
 
    p.setup= function()  {
     // create a canvas, with the size and height of the first image
-
+    let pwid=896;
     p.createCanvas(pwid, 400)
     
   }
