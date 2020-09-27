@@ -44,18 +44,16 @@ Source: [Journal of Vision (2019) Vol.19 (2), 4.](https://jov.arvojournals.org/a
 
 Jeans are fantastic research material, because they can *look* rather similar while *feel* very different. We checked whether you can infer how jeans feel from photos and videos, and found an advantage of videos. We also discussed some more methodological issues concerning this awesome topic of comparing reality with representation.  
 
-<video width="960" height="540" controls loop autoplay>
-  <source type="video/mp4" src="images/gstar.mp4">
-</video>
+
 
 <div class="polaroid">
 
-<video width="960" height="540" controls loop autoplay>
-  <source type="video/mp4" src="images/gstar.mp4">
+<video width=100% controls>
+  <source type="video/mp4" src="images/gstar480.mp4">
 </video>
 
   <div class="container">
-    <p>A small selection of faces that were ordered on hue. </p>
+    <p>Movie fragments from which observers inferred haptic characteristics. </p>
   </div>
 </div>
 
