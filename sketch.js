@@ -29,9 +29,9 @@ var ii = 0
 
    p.draw= function()  {
     p.background(0);
-    p.stroke(255);
+    p.fill(255);
     p.text("Move mouse left-right",20,20)
-    p.text("width = " + windowWidth,20,40)
+    p.text("width = " + p.windowWidth,20,40)
     
     
      
