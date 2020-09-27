@@ -46,17 +46,27 @@ let t=0;
     p.background(0);
     p.fill(255);
     p.text("Move mouse left-right",20,20)
-    p.text("t = " + t,20,40)
+    
     
     let k = 0;
+    
     if(p.mouseY<p.height&&p.mouseY>0){
-      k = p.int(p.map(p.mouseX,p.width,0,0,ims.length-1,true)); 
+      k = p.int(p.map(p.mouseX,p.width,0,0,ims.length-1,true));
+      
     }else{
       k = p.int(p.map(p.sin(2*3.1415926535*t/82),-1,1,0,ims.length-1));
+      
     }
+    
+
+
+    p.text("k = " + k,20,40)
+
     p.imageMode(p.CENTER);
     p.image(ims[k], p.width/2, p.height/2,200,200); // show the ii-th image in the canvas
-    
+    p.rectMode(p.CENTER);
+    fill(128,128);
+    ellipse(p.map(k,0,82,0,width),100,10,10);
   }
 
   p.windowResized = function() {
