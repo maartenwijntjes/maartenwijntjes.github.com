@@ -48,11 +48,11 @@ let t=0;
     p.text("Move mouse left-right",20,20)
     p.text("t = " + t,20,40)
     
-    
+    let k = 0;
     if(p.mouseY<p.height&&p.mouseY>0){
-      let k = p.int(p.map(p.mouseX,p.width,0,0,ims.length-1,true)); 
+      k = p.int(p.map(p.mouseX,p.width,0,0,ims.length-1,true)); 
     }else{
-      let k = p.int(p.map(p.sin(t),-1,1,0,ims.length-1));
+      k = p.int(p.map(p.sin(t),-1,1,0,ims.length-1));
     }
     p.imageMode(p.CENTER);
     p.image(ims[k], p.width/2, p.height/2,200,200); // show the ii-th image in the canvas
