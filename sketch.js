@@ -26,9 +26,10 @@ var ii = 0
   }
 
    p.draw= function()  {
+    p.background(0);
     p.stroke(255);
     p.text("Move mouse left-right",20,20)
-    p.background(0);
+    
      
     let k = p.int(p.map(p.mouseX,p.width,0,0,ims.length-1,true)); 
     p.imageMode(p.CENTER);
