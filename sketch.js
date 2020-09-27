@@ -20,7 +20,7 @@ var ii = 0
     let widthMax=1024;
     let widthMedium=672;
     let emSize=16;
-    let marginPadding=(2+6)*emSize;
+    //let marginPadding=(2+6)*emSize;
     let pwid=896;
 
     for (let i = 1; i <= images; i++) {
