@@ -33,7 +33,7 @@ var ii = 0
     let widthMax=1024;
     let widthMedium=672;
     let emSize=16;
-    let padding=6;
+    let padding=2*6;
     let pwid=widthMax-emSize*padding;
     p.createCanvas(pwid, 400)
     
