@@ -22,7 +22,12 @@ Before we started collecting hand annotated materials throughout art history, we
 
 The database is pretty cool because of the many parameters. In the demo below you see a selection of various 'yaw' angles while keeping pitch and roll more or less fixed (slide your mouse horizontally!):
 
-<div class="polaroid" id="c1"></div> 
+<div class="polaroid" id="c1">
+	
+  <div class="container">
+    <p>Move mouse to see different orientations. </p>
+  </div>
+</div>
 
 Based on the face landmark data we could segment faces and isolate the *skin* color. We calculated mean, standard deviation and skewness values of luminance, saturation and hue. Below we visualized a bunch of faces ordered on mean hue:
 

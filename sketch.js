@@ -44,9 +44,9 @@ let t=0;
    p.draw = function()  {
     t++;
     p.background(0);
-    p.fill(255);
-    p.textSize(32)
-    p.text("Move mouse left-right",20,20)
+    //p.fill(255);
+    //p.textSize(32)
+    //p.text("Move mouse left-right",20,20)
     
     
     let k = 0;
@@ -55,7 +55,7 @@ let t=0;
       k = p.int(p.map(p.mouseX,p.width,0,0,ims.length-1,true));
       
     }else{
-      k = p.int(p.map(p.sin(2*2*3.1415926535*t/82),-1,1,0,ims.length-1));
+      k = p.int(p.map(p.sin(3.1415926535*t/82),-1,1,0,ims.length-1));
       
     }
     
