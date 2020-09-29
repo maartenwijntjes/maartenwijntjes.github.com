@@ -7,7 +7,7 @@ Besides these main research lines, I study and produce the [synopter](http://www
 
 
 
-# Research selection
+# Selection of publications
 
 ***
 
@@ -70,6 +70,7 @@ Jeans are fantastic research material, because they can *look* rather similar wh
 ## Translucent waves
 Title: **Thurstonian Scaling and the Perception of Painterly Translucency**
 Authors: Wijntjes, Maarten W.A.; Spoiala, Cristina; 
+Source: [Art & Perception (in press) 2020](https://doi.org/10.1163/22134913-bja10021) or [this manuscript pdf (if you don't have a subscription for Art & Perception)](assets/Thurstonian_scaling_and_the_perception_of_painterly_translucency.pdf).
 
 After looking at many paintings of the sea we wondered what topic would be interesting to dive into. What we really liked about seas is that it is a (somewhat) similar *material* but takes on vastly different shapes and is illuminated in many different ways (clouded/partly clouded,sunsets etc!). 
 
@@ -94,6 +95,37 @@ We explored the use of Thurstonian scaling: a well-known psychophysical scaling 
   </div>
 </div>
 
+## 17th century grape paintings
+Title: **Understanding gloss perception through the lens of art: Combining perception, image analysis, and painting recipes of 17th century painted grapes**
+Authors: Di Cicco, Francesca ; Wijntjes, Maarten W. A. ; Pont, Sylvia C. 
+Source:[](https://jov.arvojournals.org/article.aspx?articleid=2728938)
+
+Grapes are not only nice to eat or make wine from, they are also very interesting to look at. The surface has various qualities because there is a gloss that signals ripeness or wetness, it sometimes looks 'dusty' (which is bloom) and the colors can vary from red, green ('white' grapes) to blue. And under the skin, the pulp allows the passage of light creating beautiful inner reflections. So more than enough reasons to do some perception experiments on! In this study we related perception of glossiness to painterly tricks. 
+
+<div class="polaroid">
+	<a href="images/i1534-7362-19-3-7-f03.png" target="_blank">
+ 	 <img src="images/i1534-7362-19-3-7-f03.png" alt="imcol" style="width:100%">
+	</a>
+  <div class="container">
+    <p>Cross section of image luminance values along the highlight. Contrast is determined by horizontal lines, sharpness by the red and green slopes. </p>
+  </div>
+</div>
+
+Visual perception of gloss is well studied topic and one of the findings is that contrast and sharpness determine gloss. So we combined manual annotations with a simple computations of these two gloss cues and indeed found that they are strong predictors (could explain 69% of the variance).
+
+## 17th century grape paintings
+Title: **Understanding gloss perception through the lens of art: Combining perception, image analysis, and painting recipes of 17th century painted grapes**
+Authors: Di Cicco, Francesca ; Wijntjes, Maarten W. A. ; Pont, Sylvia C. 
+Source:[](https://jov.arvojournals.org/article.aspx?articleid=2728938)
+
+
+# Ongoing research
+- to be updated soon!
+
+
+
+# Interesting student projects
+- should also be update but in any case, see (https://xiehowe.github.io).
 
 <!--<div id="brownianDemo"></div>-->
 
