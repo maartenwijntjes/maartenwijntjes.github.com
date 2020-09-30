@@ -103,7 +103,18 @@ We explored the use of Thurstonian scaling: a well-known psychophysical scaling 
 ## 17th century grape paintings
 Title: **Understanding gloss perception through the lens of art: Combining perception, image analysis, and painting recipes of 17th century painted grapes**
 Authors: Di Cicco, Francesca ; Wijntjes, Maarten W. A. ; Pont, Sylvia C. 
-Source:[](https://jov.arvojournals.org/article.aspx?articleid=2728938)
+Source:[Journal of Vision 2019;19(3):7](https://jov.arvojournals.org/article.aspx?articleid=2728938)
+
+<div class="polaroid">
+	<a href="images/grapeCollage.jpg" target="_blank">
+ 	 <img src="images/grapeCollage.jpg" alt="imcol" style="width:100%">
+	</a>
+  <div class="container">
+    <p>Cross section of image luminance values along the highlight. Contrast is determined by horizontal lines, sharpness by the red and green slopes. </p>
+  </div>
+</div>
+
+
 
 Grapes are not only nice to eat or make wine from, they are also very interesting to look at. The surface has various qualities because there is a gloss that signals ripeness or wetness, it sometimes looks 'dusty' (which is bloom) and the colors can vary from red, green ('white' grapes) to blue. And under the skin, the pulp allows the passage of light creating beautiful inner reflections. So more than enough reasons to do some perception experiments on! In this study we related perception of glossiness to painterly tricks. 
 
@@ -121,8 +132,9 @@ Visual perception of gloss is well studied topic and one of the findings is that
 ## On the relations between properties and categoroes. 
 Title: **Painterly depiction of material properties**
 Authors: van Zuijlen, Mitchell  ; Pont, Sylvia C. ; Wijntjes, Maarten W. A.
-Source:[](https://jov.arvojournals.org/article.aspx?articleid=2770257)
+Source:[Journal of Vision 2020;20(7):7](https://jov.arvojournals.org/article.aspx?articleid=2770257)
 
+The study of material perception and depiction involves both material *categories* and their *properties*. The categories are what you call them, for example glass, iron, paper, fabric etc. The properties involve aspects such as glossiness, 
 
 
 <div class="polaroid">
