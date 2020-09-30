@@ -127,7 +127,7 @@ Source:[](https://jov.arvojournals.org/article.aspx?articleid=2770257)
 
 <div class="polaroid">
 	<a href="images/i0035-8711-672-1-07153-f1.jpg" target="_blank">
- 	 <img src="images/0035-8711-672-1-07153-f1.jpg" alt="imcol" style="width:100%">
+ 	 <img src="images/i0035-8711-672-1-07153-f1.jpg" alt="imcol" style="width:100%">
 	</a>
   <div class="container">
     <p>Segmentation of various materials </p>
