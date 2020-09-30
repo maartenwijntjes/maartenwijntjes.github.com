@@ -1,9 +1,14 @@
 
-I teach and study visual perception and communication. <i>"of what?"  i hear you thinking... good question</i>. Mostly subjects that can also be physically or mathematically described, such as light, space, shape and material properties. The main two subjects i enjoy very much at the moment are:
+I teach and study visual perception and communication. <i>"Of what?".</i>. Mostly subjects that can also be physically or mathematically described, such as light, space, shape and material properties, but off course aesthetics, emotions etc are play important roles. I'm interested in how artists and designers convey these aspects so I use their products (i.e. images) to study perception. We are currently doing many of these experiments (a selection is seen below), particularly focusing in the perception of *material*. 
+
+
+
+<!--The main two subjects i enjoy very much at the moment are:
 - **Artistic material depictions**: we are creating a database of material depictions throughout art history. Main motivation is to see if we can learn something about perception from artists. Side motivations include digital art history and machine learning. 
 - **Online shopping**: how to optimize movies and images so that raised expectations are met when the product is delivered? It is both an interesting societal problem (reduce returns & logistics) as well as a fundamentally interesting subject (difference between reality and representations).
+-->
 
-Besides these main research lines, I study and produce the [synopter](http://www.waysofviewing.com) and enjoy teaching courses such as [Visual Communication Design](https://visualcommunicationdesign.github.io).
+Besides these main research lines, I founded [Ways of Viewing](http://www.waysofviewing.com) with which aim to enrich museum experiences by using a synopter. Also, I very much enjoy teaching courses such as [Visual Communication Design](https://visualcommunicationdesign.github.io). Lastly, I should say I am a very big fan of [p5js](https://p5js.org). 
 
 
 
@@ -113,10 +118,23 @@ Grapes are not only nice to eat or make wine from, they are also very interestin
 
 Visual perception of gloss is well studied topic and one of the findings is that contrast and sharpness determine gloss. So we combined manual annotations with a simple computations of these two gloss cues and indeed found that they are strong predictors (could explain 69% of the variance).
 
-## 17th century grape paintings
-Title: **Understanding gloss perception through the lens of art: Combining perception, image analysis, and painting recipes of 17th century painted grapes**
-Authors: Di Cicco, Francesca ; Wijntjes, Maarten W. A. ; Pont, Sylvia C. 
-Source:[](https://jov.arvojournals.org/article.aspx?articleid=2728938)
+## On the relations between properties and categoroes. 
+Title: **Painterly depiction of material properties**
+Authors: van Zuijlen, Mitchell  ; Pont, Sylvia C. ; Wijntjes, Maarten W. A.
+Source:[](https://jov.arvojournals.org/article.aspx?articleid=2770257)
+
+
+
+<div class="polaroid">
+	<a href="images/i0035-8711-672-1-07153-f1.jpg" target="_blank">
+ 	 <img src="images/0035-8711-672-1-07153-f1.jpg" alt="imcol" style="width:100%">
+	</a>
+  <div class="container">
+    <p>Segmentation of various materials </p>
+  </div>
+</div>
+
+
 
 
 # Ongoing research
