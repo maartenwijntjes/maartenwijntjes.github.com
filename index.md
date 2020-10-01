@@ -73,8 +73,8 @@ Jeans are fantastic research material, because they can *look* rather similar wh
 
 
 ## Translucent waves
-Title: **Thurstonian Scaling and the Perception of Painterly Translucency**
-Authors: Wijntjes, Maarten W.A.; Spoiala, Cristina; 
+Title: **Thurstonian Scaling and the Perception of Painterly Translucency**<br>
+Authors: Wijntjes, Maarten W.A.; Spoiala, Cristina; de Ridder, Huib <br>
 Source: [Art & Perception (in press) 2020](https://doi.org/10.1163/22134913-bja10021) or [this manuscript pdf (if you don't have a subscription for Art & Perception)](assets/Thurstonian_scaling_and_the_perception_of_painterly_translucency.pdf).
 
 After looking at many paintings of the sea we wondered what topic would be interesting to dive into. What we really liked about seas is that it is a (somewhat) similar *material* but takes on vastly different shapes and is illuminated in many different ways (clouded/partly clouded,sunsets etc!). 
@@ -130,11 +130,12 @@ Grapes are not only nice to eat or make wine from, they are also very interestin
 Visual perception of gloss is well studied topic and one of the findings is that contrast and sharpness determine gloss. So we combined manual annotations with a simple computations of these two gloss cues and indeed found that they are strong predictors (could explain 69% of the variance).
 
 ## On the relations between properties and categoroes. 
-Title: **Painterly depiction of material properties**
-Authors: van Zuijlen, Mitchell  ; Pont, Sylvia C. ; Wijntjes, Maarten W. A.
+Title: **Painterly depiction of material properties**<br>
+Authors: van Zuijlen, Mitchell  ; Pont, Sylvia C. ; Wijntjes, Maarten W. A.<br>
 Source:[Journal of Vision 2020;20(7):7](https://jov.arvojournals.org/article.aspx?articleid=2770257)
 
-The study of material perception and depiction involves both material *categories* and their *properties*. The categories are what you call them, for example glass, iron, paper, fabric etc. The properties involve aspects such as glossiness, 
+The study of material perception and depiction involves both material *categories* and their *properties*. The categories are what you call them, for example glass, iron, paper, fabric etc. The properties involve aspects such as glossiness, weight, roughness etc. I think that the combination of categories and properties make material perception so interesting: it does not only concern *what* you see but also involves all its qualities.
+
 
 
 <div class="polaroid">
@@ -146,8 +147,7 @@ The study of material perception and depiction involves both material *categorie
   </div>
 </div>
 
-
-
+In this study we first collected a set of 450 painting segments that consisted of 15 categories. Then we measured the perception of 10 properties for each category. 
 
 # Ongoing research
 - to be updated soon!
@@ -155,7 +155,7 @@ The study of material perception and depiction involves both material *categorie
 
 
 # Interesting student projects
-- should also be update but in any case, see (https://xiehowe.github.io).
+- should also be update but in any case, see [](https://xiehowe.github.io).
 
 <!--<div id="brownianDemo"></div>-->
 
