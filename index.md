@@ -8,7 +8,7 @@ I teach and study visual perception and communication. Mostly subjects that can 
 - **Online shopping**: how to optimize movies and images so that raised expectations are met when the product is delivered? It is both an interesting societal problem (reduce returns & logistics) as well as a fundamentally interesting subject (difference between reality and representations).
 -->
 
-Besides these main research lines, I founded [Ways of Viewing](http://www.waysofviewing.com) with which aim to enrich museum experiences by using a synopter. Also, I very much enjoy teaching courses such as [Visual Communication Design](https://visualcommunicationdesign.github.io). Lastly, I should say I am a very big fan of [p5js](https://p5js.org). 
+Besides these main research lines, I founded [Ways of Viewing](http://www.waysofviewing.com) which aims to enrich museum experiences with a synopter. Also, I very much enjoy teaching courses such as [Visual Communication Design](https://visualcommunicationdesign.github.io). Lastly, I should say I am a very big fan of [p5js](https://p5js.org), with which I made my [landing page](www.maartenwijntjes.nl). 
 
 
 
@@ -155,7 +155,36 @@ In this study we first collected a set of 450 painting segments that consisted o
 
 
 # Interesting student projects
-- should also be update but in any case, see [](https://xiehowe.github.io).
+
+## Formiliar
+
+<div class="polaroid">
+	<a href="images/formiliar.jpg" target="_blank">
+ 	 <img src="images/formiliar.jpg" alt="imcol" style="width:100%">
+	</a>
+  <div class="container">
+    <p>Formiliar, by Malou Kortleve </p>
+  </div>
+</div>
+
+
+Formiliar is digital a tool with which users can explore artworks by completing challenges, all focussing on visual elements in paintings. The main aim of the application is to encourage users to look closely at the paintings and to familiarise with them visually. Through multiple challenges users will look at the way elements, such as colour or composition, are applied in a specific painting and will get a peek into the artist’s process and considerations. By exploring, dissecting, manipulating, zooming into and comparing the artwork, the effects of different visual elements on the user’s perception are shown.
+
+- [Prototype website (only partially functional)](https://www.maloukortleve.nl)
+
+## Cinematics for online shopping
+
+<div class="polaroid">
+	<a href="images/cinematics.jpg" target="_blank">
+ 	 <img src="images/cinematics.jpg" alt="imcol" style="width:100%">
+	</a>
+  <div class="container">
+    <p>Online shopping, interactive. </p>
+  </div>
+</div>
+
+In online stores, the lack of physical contact with products could sometimes make it difficult for customers to clearly evaluate the product. Clothing, for example, without direct touching people might not be confident about purchasing because there is not enough information for the material. To start with, insights on how people interact with products in real life were gathered through in-store observation. Sketches were made and clustered to provide the basis for prototyping. After an iteration process, 12 final prototypes of interactive movies were made [online](https://xiehowe.github.io). 
+
 
 <!--<div id="brownianDemo"></div>-->
 
