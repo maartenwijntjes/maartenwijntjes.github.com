@@ -1,6 +1,5 @@
 
-I teach and study visual perception and communication. Mostly subjects that can also be physically or mathematically described, such as light, space, shape and material properties, but aesthetics, emotions etc are also involved. I'm interested in how artists and designers convey these aspects so I use their products (i.e. images) to study perception. We are currently doing many of these experiments (a selection is seen below), particularly focusing in the perception of *material*. 
-
+I teach and study visual perception and communication. Research topics mostly include phenomena that can be physically or mathematically described, such as light, space, shape, color and material properties. 
 
 
 <!--The main two subjects i enjoy very much at the moment are:
@@ -8,7 +7,7 @@ I teach and study visual perception and communication. Mostly subjects that can 
 - **Online shopping**: how to optimize movies and images so that raised expectations are met when the product is delivered? It is both an interesting societal problem (reduce returns & logistics) as well as a fundamentally interesting subject (difference between reality and representations).
 -->
 
-Besides these main research lines, I founded [Ways of Viewing](http://www.waysofviewing.com) which aims to enrich museum experiences with a synopter. Also, I very much enjoy teaching courses such as [Visual Communication Design](https://visualcommunicationdesign.github.io). Lastly, I should say I am a very big fan of [p5js](https://p5js.org), with which I made my [landing page](www.maartenwijntjes.nl). 
+Besides these main research lines, I founded [Ways of Viewing](http://www.waysofviewing.com) which aims to enrich museum experiences with a synopter. Also, I very much enjoy teaching courses such as [Visual Communication Design](https://visualcommunicationdesign.github.io). Lastly, I should say I am a very big fan of [p5js](https://p5js.org), with which I made my [landing page](http://www.maartenwijntjes.nl). 
 
 
 
