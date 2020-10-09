@@ -1,5 +1,5 @@
 
-I teach and study visual perception and communication. <i>"Of what?".</i>. Mostly subjects that can also be physically or mathematically described, such as light, space, shape and material properties, but off course aesthetics, emotions etc are play important roles. I'm interested in how artists and designers convey these aspects so I use their products (i.e. images) to study perception. We are currently doing many of these experiments (a selection is seen below), particularly focusing in the perception of *material*. 
+I teach and study visual perception and communication. Mostly subjects that can also be physically or mathematically described, such as light, space, shape and material properties, but aesthetics, emotions etc are also involved. I'm interested in how artists and designers convey these aspects so I use their products (i.e. images) to study perception. We are currently doing many of these experiments (a selection is seen below), particularly focusing in the perception of *material*. 
 
 
 
