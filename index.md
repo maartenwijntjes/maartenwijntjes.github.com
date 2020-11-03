@@ -128,7 +128,7 @@ Grapes are not only nice to eat or make wine from, they are also very interestin
 
 Visual perception of gloss is well studied topic and one of the findings is that contrast and sharpness determine gloss. So we combined manual annotations with a simple computations of these two gloss cues and indeed found that they are strong predictors (could explain 69% of the variance).
 
-## On the relations between properties and categoroes. 
+## On the relations between properties and categories. 
 Title: **Painterly depiction of material properties**<br>
 Authors: van Zuijlen, Mitchell  ; Pont, Sylvia C. ; Wijntjes, Maarten W. A.<br>
 Source:[Journal of Vision 2020;20(7):7](https://jov.arvojournals.org/article.aspx?articleid=2770257)
